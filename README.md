@@ -41,4 +41,4 @@ The following table shows the ASR for each attack method when applied to the Res
 Install the required dependencies using the following command:
 
    ```bash
-   pip install torch torchattacks autoattack
+   pip install torch torchvision torchattacks autoattack 
