@@ -1,4 +1,4 @@
-# Adversarial Attacks on ResNet18 Trained on RIVAL10 Dataset
+# Adversarial Attacks on ResNet18 
 
 ## Overview
 
